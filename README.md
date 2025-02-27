@@ -1,73 +1,65 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+# Automated Corruption Risk Detection in Prozorro Tenders
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+## Overview
+This backend application is designed to analyze public procurement tenders in the Prozorro system, identifying potential corruption risks based on predefined indicators. The system processes large datasets, detects anomalies, and generates reports for further investigation.
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Features
+- Fetches tender data from Prozorro API
+- Preprocesses and stores data in a MySQL database
+- Analyzes tenders using risk indicators
+  
+## Tech Stack
+- **Frameworks:** Node.js, NestJS, TypeORM
+- **Database:** MySQL
+- **Data Processing:** Risk indicator analysis, statistical methods
 
 ## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mxcv/getting-clear-be.git
+   cd getting-clear-be
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Set up environment variables in `.env` file:
+   ```plaintext
+   PROZORRO_URL=https://public.api.openprocurement.org/api/2.5
+   DATA_SOURCE_HOST=localhost
+   DATA_SOURCE_PORT=3306
+   DATA_SOURCE_USERNAME=
+   DATA_SOURCE_PASSWORD=
+   DATA_SOURCE_DATABASE=
+   DATA_SOURCE_SYNCHRONIZE=true
+   ```
+4. Run the application:
+   ```bash
+   npm start
+   ```
 
-```bash
-$ npm install
-```
+## API Endpoints
+### Tenders
+- `PUT /tenders/seed` - Seeds tender data by date range
+- `GET /tenders/:id` - Retrieve a specific tender by ID
 
-## Running the app
+### Regions
+- `GET /regions` - Retrieve all regions
+- `GET /regions/:regionId/localities` - Get localities by region ID
 
-```bash
-# development
-$ npm run start
+### Items
+- `GET /items/classifications` - Retrieve item classifications
 
-# watch mode
-$ npm run start:dev
+### Inspections
+- `GET /inspections/tenders/:id` - Inspect a specific tender
+- `GET /inspections/regions/:id?from=YYYY-MM-DD&to=YYYY-MM-DD` - Inspect a specific region within a date range
+- `GET /inspections/regions?from=YYYY-MM-DD&to=YYYY-MM-DD` - Inspect all regions within a date range
+- `GET /inspections/localities/:id?from=YYYY-MM-DD&to=YYYY-MM-DD` - Inspect a specific locality within a date range
 
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+### Estimates
+- `GET /estimates/localities?year=YYYY&regionId=X` - Get cost estimates for localities
+- `PUT /estimates/localities` - Update cost estimates for localities
+- `GET /estimates/regions?year=YYYY` - Get cost estimates for regions
+- `PUT /estimates/regions?year=YYYY` - Update cost estimates for regions
+- `GET /estimates/items?year=YYYY&classificationId=X` - Get cost estimates for items
+- `PUT /estimates/items` - Update cost estimates for items
