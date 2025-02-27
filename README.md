@@ -63,3 +63,8 @@ This backend application is designed to analyze public procurement tenders in th
 - `PUT /estimates/regions?year=YYYY` - Update cost estimates for regions
 - `GET /estimates/items?year=YYYY&classificationId=X` - Get cost estimates for items
 - `PUT /estimates/items` - Update cost estimates for items
+
+## Experiment Results
+The system calculated the average corruption risk score for all tenders, categorized by region, for the year 2024. This analysis helps to identify areas with higher corruption risks and enables targeted intervention.
+
+<img src="https://i.imgur.com/On5iJsQ.png" width="500">
