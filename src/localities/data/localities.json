@@ -1,0 +1,2307 @@
+[
+  {
+    "locality": "Авдіївка",
+    "region": "Донецька область",
+    "population": 37210
+  },
+  {
+    "locality": "Алмазна",
+    "region": "Луганська область",
+    "population": 5061
+  },
+  {
+    "locality": "Алупка",
+    "region": "Автономна Республіка Крим",
+    "population": 9018
+  },
+  {
+    "locality": "Алушта",
+    "region": "Автономна Республіка Крим",
+    "population": 31440
+  },
+  {
+    "locality": "Алчевськ",
+    "region": "Луганська область",
+    "population": 119193
+  },
+  {
+    "locality": "Амвросіївка",
+    "region": "Донецька область",
+    "population": 22130
+  },
+  {
+    "locality": "Ананьїв",
+    "region": "Одеська область",
+    "population": 9476
+  },
+  {
+    "locality": "Андрушівка",
+    "region": "Житомирська область",
+    "population": 9890
+  },
+  {
+    "locality": "Антрацит",
+    "region": "Луганська область",
+    "population": 63698
+  },
+  {
+    "locality": "Апостолове",
+    "region": "Дніпропетровська область",
+    "population": 16439
+  },
+  {
+    "locality": "Армянськ",
+    "region": "Автономна Республіка Крим",
+    "population": 23869
+  },
+  {
+    "locality": "Арциз",
+    "region": "Одеська область",
+    "population": 16370
+  },
+  {
+    "locality": "Багачеве",
+    "region": "Черкаська область",
+    "population": 20156
+  },
+  {
+    "locality": "Балаклія",
+    "region": "Харківська область",
+    "population": 32408
+  },
+  {
+    "locality": "Балта",
+    "region": "Одеська область",
+    "population": 19962
+  },
+  {
+    "locality": "Бар",
+    "region": "Вінницька область",
+    "population": 17284
+  },
+  {
+    "locality": "Баранівка",
+    "region": "Житомирська область",
+    "population": 12584
+  },
+  {
+    "locality": "Барвінкове",
+    "region": "Харківська область",
+    "population": 12998
+  },
+  {
+    "locality": "Батурин",
+    "region": "Чернігівська область",
+    "population": 3066
+  },
+  {
+    "locality": "Бахмач",
+    "region": "Чернігівська область",
+    "population": 20332
+  },
+  {
+    "locality": "Бахмут",
+    "region": "Донецька область",
+    "population": 82916
+  },
+  {
+    "locality": "Бахчисарай",
+    "region": "Автономна Республіка Крим",
+    "population": 27549
+  },
+  {
+    "locality": "Баштанка",
+    "region": "Миколаївська область",
+    "population": 13146
+  },
+  {
+    "locality": "Белз",
+    "region": "Львівська область",
+    "population": 2478
+  },
+  {
+    "locality": "Бердичів",
+    "region": "Житомирська область",
+    "population": 87575
+  },
+  {
+    "locality": "Бердянськ",
+    "region": "Запорізька область",
+    "population": 121692
+  },
+  {
+    "locality": "Берегове",
+    "region": "Закарпатська область",
+    "population": 26735
+  },
+  {
+    "locality": "Бережани",
+    "region": "Тернопільська область",
+    "population": 17617
+  },
+  {
+    "locality": "Березань",
+    "region": "Київська область",
+    "population": 17367
+  },
+  {
+    "locality": "Березівка",
+    "region": "Одеська область",
+    "population": 9481
+  },
+  {
+    "locality": "Березне",
+    "region": "Рівненська область",
+    "population": 13669
+  },
+  {
+    "locality": "Берестечко",
+    "region": "Волинська область",
+    "population": 1904
+  },
+  {
+    "locality": "Берестин",
+    "region": "Харківська область",
+    "population": 22670
+  },
+  {
+    "locality": "Берислав",
+    "region": "Херсонська область",
+    "population": 15455
+  },
+  {
+    "locality": "Бершадь",
+    "region": "Вінницька область",
+    "population": 13336
+  },
+  {
+    "locality": "Бібрка",
+    "region": "Львівська область",
+    "population": 3980
+  },
+  {
+    "locality": "Біла Церква",
+    "region": "Київська область",
+    "population": 200131
+  },
+  {
+    "locality": "Білгород-Дністровський",
+    "region": "Одеська область",
+    "population": 51890
+  },
+  {
+    "locality": "Білицьке",
+    "region": "Донецька область",
+    "population": 10093
+  },
+  {
+    "locality": "Білогірськ",
+    "region": "Автономна Республіка Крим",
+    "population": 18790
+  },
+  {
+    "locality": "Білозерське",
+    "region": "Донецька область",
+    "population": 17868
+  },
+  {
+    "locality": "Білопілля",
+    "region": "Сумська область",
+    "population": 18384
+  },
+  {
+    "locality": "Біляївка",
+    "region": "Одеська область",
+    "population": 14294
+  },
+  {
+    "locality": "Благовіщенське",
+    "region": "Кіровоградська область",
+    "population": 7526
+  },
+  {
+    "locality": "Бобринець",
+    "region": "Кіровоградська область",
+    "population": 12300
+  },
+  {
+    "locality": "Бобровиця",
+    "region": "Чернігівська область",
+    "population": 11916
+  },
+  {
+    "locality": "Богодухів",
+    "region": "Харківська область",
+    "population": 18224
+  },
+  {
+    "locality": "Богуслав",
+    "region": "Київська область",
+    "population": 17135
+  },
+  {
+    "locality": "Боково-Хрустальне",
+    "region": "Луганська область",
+    "population": 14773
+  },
+  {
+    "locality": "Болград",
+    "region": "Одеська область",
+    "population": 17353
+  },
+  {
+    "locality": "Болехів",
+    "region": "Івано-Франківська область",
+    "population": 10633
+  },
+  {
+    "locality": "Борзна",
+    "region": "Чернігівська область",
+    "population": 11707
+  },
+  {
+    "locality": "Борислав",
+    "region": "Львівська область",
+    "population": 38122
+  },
+  {
+    "locality": "Бориспіль",
+    "region": "Київська область",
+    "population": 53975
+  },
+  {
+    "locality": "Борщів",
+    "region": "Тернопільська область",
+    "population": 11382
+  },
+  {
+    "locality": "Боярка",
+    "region": "Київська область",
+    "population": 35968
+  },
+  {
+    "locality": "Бровари",
+    "region": "Київська область",
+    "population": 86839
+  },
+  {
+    "locality": "Броди",
+    "region": "Львівська область",
+    "population": 23239
+  },
+  {
+    "locality": "Брянка",
+    "region": "Луганська область",
+    "population": 54767
+  },
+  {
+    "locality": "Бунге",
+    "region": "Донецька область",
+    "population": 17813
+  },
+  {
+    "locality": "Буринь",
+    "region": "Сумська область",
+    "population": 11678
+  },
+  {
+    "locality": "Бурштин",
+    "region": "Івано-Франківська область",
+    "population": 15298
+  },
+  {
+    "locality": "Буськ",
+    "region": "Львівська область",
+    "population": 8673
+  },
+  {
+    "locality": "Буча",
+    "region": "Київська область",
+    "population": 28533
+  },
+  {
+    "locality": "Бучач",
+    "region": "Тернопільська область",
+    "population": 12549
+  },
+  {
+    "locality": "Валки",
+    "region": "Харківська область",
+    "population": 10381
+  },
+  {
+    "locality": "Вараш",
+    "region": "Рівненська область",
+    "population": 38830
+  },
+  {
+    "locality": "Василівка",
+    "region": "Запорізька область",
+    "population": 15592
+  },
+  {
+    "locality": "Васильків",
+    "region": "Київська область",
+    "population": 39722
+  },
+  {
+    "locality": "Вашківці",
+    "region": "Чернівецька область",
+    "population": 5987
+  },
+  {
+    "locality": "Великі Мости",
+    "region": "Львівська область",
+    "population": 5925
+  },
+  {
+    "locality": "Верхівцеве",
+    "region": "Дніпропетровська область",
+    "population": 10142
+  },
+  {
+    "locality": "Верхньодніпровськ",
+    "region": "Дніпропетровська область",
+    "population": 16976
+  },
+  {
+    "locality": "Вижниця",
+    "region": "Чернівецька область",
+    "population": 5021
+  },
+  {
+    "locality": "Вилкове",
+    "region": "Одеська область",
+    "population": 9260
+  },
+  {
+    "locality": "Винники",
+    "region": "Львівська область",
+    "population": 13654
+  },
+  {
+    "locality": "Виноградів",
+    "region": "Закарпатська область",
+    "population": 25760
+  },
+  {
+    "locality": "Вишгород",
+    "region": "Київська область",
+    "population": 22933
+  },
+  {
+    "locality": "Вишневе",
+    "region": "Київська область",
+    "population": 34465
+  },
+  {
+    "locality": "Вільногірськ",
+    "region": "Дніпропетровська область",
+    "population": 23782
+  },
+  {
+    "locality": "Вільнянськ",
+    "region": "Запорізька область",
+    "population": 16522
+  },
+  {
+    "locality": "Вінниця",
+    "region": "Вінницька область",
+    "population": 356665
+  },
+  {
+    "locality": "Вовчанськ",
+    "region": "Харківська область",
+    "population": 20695
+  },
+  {
+    "locality": "Вознесенівка",
+    "region": "Луганська область",
+    "population": 17680
+  },
+  {
+    "locality": "Вознесенськ",
+    "region": "Миколаївська область",
+    "population": 42634
+  },
+  {
+    "locality": "Волноваха",
+    "region": "Донецька область",
+    "population": 24647
+  },
+  {
+    "locality": "Володимир",
+    "region": "Волинська область",
+    "population": 38256
+  },
+  {
+    "locality": "Волочиськ",
+    "region": "Хмельницька область",
+    "population": 20958
+  },
+  {
+    "locality": "Ворожба",
+    "region": "Сумська область",
+    "population": 8384
+  },
+  {
+    "locality": "Вуглегірськ",
+    "region": "Донецька область",
+    "population": 10309
+  },
+  {
+    "locality": "Вугледар",
+    "region": "Донецька область",
+    "population": 17440
+  },
+  {
+    "locality": "Гадяч",
+    "region": "Полтавська область",
+    "population": 22698
+  },
+  {
+    "locality": "Гайворон",
+    "region": "Кіровоградська область",
+    "population": 16126
+  },
+  {
+    "locality": "Гайсин",
+    "region": "Вінницька область",
+    "population": 25640
+  },
+  {
+    "locality": "Галич",
+    "region": "Івано-Франківська область",
+    "population": 6495
+  },
+  {
+    "locality": "Генічеськ",
+    "region": "Херсонська область",
+    "population": 21793
+  },
+  {
+    "locality": "Герца",
+    "region": "Чернівецька область",
+    "population": 2068
+  },
+  {
+    "locality": "Гірник",
+    "region": "Донецька область",
+    "population": 14207
+  },
+  {
+    "locality": "Гірське",
+    "region": "Луганська область",
+    "population": 11473
+  },
+  {
+    "locality": "Глиняни",
+    "region": "Львівська область",
+    "population": 3378
+  },
+  {
+    "locality": "Глобине",
+    "region": "Полтавська область",
+    "population": 12902
+  },
+  {
+    "locality": "Глухів",
+    "region": "Сумська область",
+    "population": 35768
+  },
+  {
+    "locality": "Гнівань",
+    "region": "Вінницька область",
+    "population": 12832
+  },
+  {
+    "locality": "Гола Пристань",
+    "region": "Херсонська область",
+    "population": 16028
+  },
+  {
+    "locality": "Голубівка",
+    "region": "Луганська область",
+    "population": 35199
+  },
+  {
+    "locality": "Горішні Плавні",
+    "region": "Полтавська область",
+    "population": 51740
+  },
+  {
+    "locality": "Горлівка",
+    "region": "Донецька область",
+    "population": 292250
+  },
+  {
+    "locality": "Городенка",
+    "region": "Івано-Франківська область",
+    "population": 9794
+  },
+  {
+    "locality": "Городище",
+    "region": "Черкаська область",
+    "population": 15645
+  },
+  {
+    "locality": "Городня",
+    "region": "Чернігівська область",
+    "population": 14043
+  },
+  {
+    "locality": "Городок",
+    "region": "Львівська область",
+    "population": 16082
+  },
+  {
+    "locality": "Городок",
+    "region": "Хмельницька область",
+    "population": 17746
+  },
+  {
+    "locality": "Горохів",
+    "region": "Волинська область",
+    "population": 9015
+  },
+  {
+    "locality": "Гребінка",
+    "region": "Полтавська область",
+    "population": 11662
+  },
+  {
+    "locality": "Гуляйполе",
+    "region": "Запорізька область",
+    "population": 17077
+  },
+  {
+    "locality": "Дебальцеве",
+    "region": "Донецька область",
+    "population": 30246
+  },
+  {
+    "locality": "Деражня",
+    "region": "Хмельницька область",
+    "population": 10446
+  },
+  {
+    "locality": "Дергачі",
+    "region": "Харківська область",
+    "population": 20258
+  },
+  {
+    "locality": "Джанкой",
+    "region": "Автономна Республіка Крим",
+    "population": 43343
+  },
+  {
+    "locality": "Дніпро",
+    "region": "Дніпропетровська область",
+    "population": 1065008
+  },
+  {
+    "locality": "Дніпрорудне",
+    "region": "Запорізька область",
+    "population": 21054
+  },
+  {
+    "locality": "Добромиль",
+    "region": "Львівська область",
+    "population": 4976
+  },
+  {
+    "locality": "Добропілля",
+    "region": "Донецька область",
+    "population": 35638
+  },
+  {
+    "locality": "Довжанськ",
+    "region": "Луганська область",
+    "population": 72531
+  },
+  {
+    "locality": "Докучаєвськ",
+    "region": "Донецька область",
+    "population": 24383
+  },
+  {
+    "locality": "Долина",
+    "region": "Івано-Франківська область",
+    "population": 20906
+  },
+  {
+    "locality": "Долинська",
+    "region": "Кіровоградська область",
+    "population": 18768
+  },
+  {
+    "locality": "Донецьк",
+    "region": "Донецька область",
+    "population": 1016194
+  },
+  {
+    "locality": "Дрогобич",
+    "region": "Львівська область",
+    "population": 79119
+  },
+  {
+    "locality": "Дружківка",
+    "region": "Донецька область",
+    "population": 64557
+  },
+  {
+    "locality": "Дубляни",
+    "region": "Львівська область",
+    "population": 8469
+  },
+  {
+    "locality": "Дубно",
+    "region": "Рівненська область",
+    "population": 39146
+  },
+  {
+    "locality": "Дубровиця",
+    "region": "Рівненська область",
+    "population": 9644
+  },
+  {
+    "locality": "Дунаївці",
+    "region": "Хмельницька область",
+    "population": 16448
+  },
+  {
+    "locality": "Енергодар",
+    "region": "Запорізька область",
+    "population": 56242
+  },
+  {
+    "locality": "Євпаторія",
+    "region": "Автономна Республіка Крим",
+    "population": 105915
+  },
+  {
+    "locality": "Єнакієве",
+    "region": "Донецька область",
+    "population": 103997
+  },
+  {
+    "locality": "Жашків",
+    "region": "Черкаська область",
+    "population": 15853
+  },
+  {
+    "locality": "Жданівка",
+    "region": "Донецька область",
+    "population": 13688
+  },
+  {
+    "locality": "Жидачів",
+    "region": "Львівська область",
+    "population": 11798
+  },
+  {
+    "locality": "Житомир",
+    "region": "Житомирська область",
+    "population": 284236
+  },
+  {
+    "locality": "Жмеринка",
+    "region": "Вінницька область",
+    "population": 37349
+  },
+  {
+    "locality": "Жовква",
+    "region": "Львівська область",
+    "population": 13474
+  },
+  {
+    "locality": "Жовті Води",
+    "region": "Дніпропетровська область",
+    "population": 53582
+  },
+  {
+    "locality": "Заводське",
+    "region": "Полтавська область",
+    "population": 9024
+  },
+  {
+    "locality": "Залізне",
+    "region": "Донецька область",
+    "population": 6725
+  },
+  {
+    "locality": "Заліщики",
+    "region": "Тернопільська область",
+    "population": 10125
+  },
+  {
+    "locality": "Запоріжжя",
+    "region": "Запорізька область",
+    "population": 815256
+  },
+  {
+    "locality": "Заставна",
+    "region": "Чернівецька область",
+    "population": 8866
+  },
+  {
+    "locality": "Збараж",
+    "region": "Тернопільська область",
+    "population": 13228
+  },
+  {
+    "locality": "Зборів",
+    "region": "Тернопільська область",
+    "population": 7436
+  },
+  {
+    "locality": "Звенигородка",
+    "region": "Черкаська область",
+    "population": 19901
+  },
+  {
+    "locality": "Звягель",
+    "region": "Житомирська область",
+    "population": 56259
+  },
+  {
+    "locality": "Здолбунів",
+    "region": "Рівненська область",
+    "population": 24612
+  },
+  {
+    "locality": "Зеленодольськ",
+    "region": "Дніпропетровська область",
+    "population": 14792
+  },
+  {
+    "locality": "Зимогір'я",
+    "region": "Луганська область",
+    "population": 11295
+  },
+  {
+    "locality": "Зіньків",
+    "region": "Полтавська область",
+    "population": 10577
+  },
+  {
+    "locality": "Златопіль",
+    "region": "Харківська область",
+    "population": 32523
+  },
+  {
+    "locality": "Зміїв",
+    "region": "Харківська область",
+    "population": 17063
+  },
+  {
+    "locality": "Знам'янка",
+    "region": "Кіровоградська область",
+    "population": 29412
+  },
+  {
+    "locality": "Золоте",
+    "region": "Луганська область",
+    "population": 17836
+  },
+  {
+    "locality": "Золотоноша",
+    "region": "Черкаська область",
+    "population": 28793
+  },
+  {
+    "locality": "Золочів",
+    "region": "Львівська область",
+    "population": 23481
+  },
+  {
+    "locality": "Зоринськ",
+    "region": "Луганська область",
+    "population": 8838
+  },
+  {
+    "locality": "Зугрес",
+    "region": "Донецька область",
+    "population": 19859
+  },
+  {
+    "locality": "Івано-Франківськ",
+    "region": "Івано-Франківська область",
+    "population": 218359
+  },
+  {
+    "locality": "Ізмаїл",
+    "region": "Одеська область",
+    "population": 84815
+  },
+  {
+    "locality": "Ізюм",
+    "region": "Харківська область",
+    "population": 56114
+  },
+  {
+    "locality": "Ізяслав",
+    "region": "Хмельницька область",
+    "population": 18444
+  },
+  {
+    "locality": "Іллінці",
+    "region": "Вінницька область",
+    "population": 11186
+  },
+  {
+    "locality": "Іловайськ",
+    "region": "Донецька область",
+    "population": 17620
+  },
+  {
+    "locality": "Інкерман",
+    "region": "Автономна Республіка Крим",
+    "population": 10628
+  },
+  {
+    "locality": "Ірміно",
+    "region": "Луганська область",
+    "population": 13053
+  },
+  {
+    "locality": "Ірпінь",
+    "region": "Київська область",
+    "population": 40593
+  },
+  {
+    "locality": "Іршава",
+    "region": "Закарпатська область",
+    "population": 9515
+  },
+  {
+    "locality": "Ічня",
+    "region": "Чернігівська область",
+    "population": 12780
+  },
+  {
+    "locality": "Кагарлик",
+    "region": "Київська область",
+    "population": 13757
+  },
+  {
+    "locality": "Кадіївка",
+    "region": "Луганська область",
+    "population": 90152
+  },
+  {
+    "locality": "Калинівка",
+    "region": "Вінницька область",
+    "population": 20061
+  },
+  {
+    "locality": "Калуш",
+    "region": "Івано-Франківська область",
+    "population": 67902
+  },
+  {
+    "locality": "Кальміуське",
+    "region": "Донецька область",
+    "population": 12813
+  },
+  {
+    "locality": "Камінь-Каширський",
+    "region": "Волинська область",
+    "population": 10818
+  },
+  {
+    "locality": "Кам'янець-Подільський",
+    "region": "Хмельницька область",
+    "population": 99610
+  },
+  {
+    "locality": "Кам'янка",
+    "region": "Черкаська область",
+    "population": 15109
+  },
+  {
+    "locality": "Кам'янка-Бузька",
+    "region": "Львівська область",
+    "population": 11674
+  },
+  {
+    "locality": "Кам'янка-Дніпровська",
+    "region": "Запорізька область",
+    "population": 15522
+  },
+  {
+    "locality": "Кам'янське",
+    "region": "Дніпропетровська область",
+    "population": 255841
+  },
+  {
+    "locality": "Канів",
+    "region": "Черкаська область",
+    "population": 26657
+  },
+  {
+    "locality": "Карлівка",
+    "region": "Полтавська область",
+    "population": 17995
+  },
+  {
+    "locality": "Каховка",
+    "region": "Херсонська область",
+    "population": 38238
+  },
+  {
+    "locality": "Керч",
+    "region": "Автономна Республіка Крим",
+    "population": 157007
+  },
+  {
+    "locality": "Київ",
+    "region": "Київ",
+    "population": 2611327
+  },
+  {
+    "locality": "Кипуче",
+    "region": "Луганська область",
+    "population": 9097
+  },
+  {
+    "locality": "Ківерці",
+    "region": "Волинська область",
+    "population": 16678
+  },
+  {
+    "locality": "Кілія",
+    "region": "Одеська область",
+    "population": 22594
+  },
+  {
+    "locality": "Кіцмань",
+    "region": "Чернівецька область",
+    "population": 7608
+  },
+  {
+    "locality": "Кобеляки",
+    "region": "Полтавська область",
+    "population": 12076
+  },
+  {
+    "locality": "Ковель",
+    "region": "Волинська область",
+    "population": 66401
+  },
+  {
+    "locality": "Кодима",
+    "region": "Одеська область",
+    "population": 9634
+  },
+  {
+    "locality": "Козятин",
+    "region": "Вінницька область",
+    "population": 26635
+  },
+  {
+    "locality": "Коломия",
+    "region": "Івано-Франківська область",
+    "population": 61989
+  },
+  {
+    "locality": "Комарно",
+    "region": "Львівська область",
+    "population": 3994
+  },
+  {
+    "locality": "Конотоп",
+    "region": "Сумська область",
+    "population": 92657
+  },
+  {
+    "locality": "Копичинці",
+    "region": "Тернопільська область",
+    "population": 7036
+  },
+  {
+    "locality": "Корець",
+    "region": "Рівненська область",
+    "population": 8649
+  },
+  {
+    "locality": "Коростень",
+    "region": "Житомирська область",
+    "population": 66669
+  },
+  {
+    "locality": "Коростишів",
+    "region": "Житомирська область",
+    "population": 26068
+  },
+  {
+    "locality": "Корсунь-Шевченківський",
+    "region": "Черкаська область",
+    "population": 19311
+  },
+  {
+    "locality": "Корюківка",
+    "region": "Чернігівська область",
+    "population": 14318
+  },
+  {
+    "locality": "Косів",
+    "region": "Івано-Франківська область",
+    "population": 8301
+  },
+  {
+    "locality": "Костопіль",
+    "region": "Рівненська область",
+    "population": 30467
+  },
+  {
+    "locality": "Костянтинівка",
+    "region": "Донецька область",
+    "population": 95111
+  },
+  {
+    "locality": "Краматорськ",
+    "region": "Донецька область",
+    "population": 181025
+  },
+  {
+    "locality": "Красилів",
+    "region": "Хмельницька область",
+    "population": 20580
+  },
+  {
+    "locality": "Красногорівка",
+    "region": "Донецька область",
+    "population": 16714
+  },
+  {
+    "locality": "Кременець",
+    "region": "Тернопільська область",
+    "population": 22051
+  },
+  {
+    "locality": "Кременчук",
+    "region": "Полтавська область",
+    "population": 234073
+  },
+  {
+    "locality": "Кремінна",
+    "region": "Луганська область",
+    "population": 24447
+  },
+  {
+    "locality": "Кривий Ріг",
+    "region": "Дніпропетровська область",
+    "population": 668980
+  },
+  {
+    "locality": "Кролевець",
+    "region": "Сумська область",
+    "population": 25183
+  },
+  {
+    "locality": "Кропивницький",
+    "region": "Кіровоградська область",
+    "population": 254103
+  },
+  {
+    "locality": "Куп'янськ",
+    "region": "Харківська область",
+    "population": 32449
+  },
+  {
+    "locality": "Курахове",
+    "region": "Донецька область",
+    "population": 21479
+  },
+  {
+    "locality": "Ладижин",
+    "region": "Вінницька область",
+    "population": 22219
+  },
+  {
+    "locality": "Ланівці",
+    "region": "Тернопільська область",
+    "population": 8680
+  },
+  {
+    "locality": "Лебедин",
+    "region": "Сумська область",
+    "population": 28948
+  },
+  {
+    "locality": "Лиман",
+    "region": "Донецька область",
+    "population": 28172
+  },
+  {
+    "locality": "Липовець",
+    "region": "Вінницька область",
+    "population": 9406
+  },
+  {
+    "locality": "Лисичанськ",
+    "region": "Луганська область",
+    "population": 115229
+  },
+  {
+    "locality": "Лозова",
+    "region": "Харківська область",
+    "population": 64041
+  },
+  {
+    "locality": "Лохвиця",
+    "region": "Полтавська область",
+    "population": 12389
+  },
+  {
+    "locality": "Лубни",
+    "region": "Полтавська область",
+    "population": 52572
+  },
+  {
+    "locality": "Луганськ",
+    "region": "Луганська область",
+    "population": 463097
+  },
+  {
+    "locality": "Лутугине",
+    "region": "Луганська область",
+    "population": 18833
+  },
+  {
+    "locality": "Луцьк",
+    "region": "Волинська область",
+    "population": 208816
+  },
+  {
+    "locality": "Львів",
+    "region": "Львівська область",
+    "population": 732818
+  },
+  {
+    "locality": "Любомль",
+    "region": "Волинська область",
+    "population": 10395
+  },
+  {
+    "locality": "Люботин",
+    "region": "Харківська область",
+    "population": 24173
+  },
+  {
+    "locality": "Макіївка",
+    "region": "Донецька область",
+    "population": 389589
+  },
+  {
+    "locality": "Мала Виска",
+    "region": "Кіровоградська область",
+    "population": 13132
+  },
+  {
+    "locality": "Малин",
+    "region": "Житомирська область",
+    "population": 28113
+  },
+  {
+    "locality": "Марганець",
+    "region": "Дніпропетровська область",
+    "population": 49592
+  },
+  {
+    "locality": "Маріуполь",
+    "region": "Донецька область",
+    "population": 492176
+  },
+  {
+    "locality": "Мар'їнка",
+    "region": "Донецька область",
+    "population": 10722
+  },
+  {
+    "locality": "Мелітополь",
+    "region": "Запорізька область",
+    "population": 160657
+  },
+  {
+    "locality": "Мена",
+    "region": "Чернігівська область",
+    "population": 12940
+  },
+  {
+    "locality": "Мерефа",
+    "region": "Харківська область",
+    "population": 25018
+  },
+  {
+    "locality": "Миколаїв",
+    "region": "Миколаївська область",
+    "population": 514136
+  },
+  {
+    "locality": "Миколаїв",
+    "region": "Львівська область",
+    "population": 14801
+  },
+  {
+    "locality": "Миколаївка",
+    "region": "Донецька область",
+    "population": 16620
+  },
+  {
+    "locality": "Миргород",
+    "region": "Полтавська область",
+    "population": 42886
+  },
+  {
+    "locality": "Мирноград",
+    "region": "Донецька область",
+    "population": 54787
+  },
+  {
+    "locality": "Миронівка",
+    "region": "Київська область",
+    "population": 13368
+  },
+  {
+    "locality": "Міусинськ",
+    "region": "Луганська область",
+    "population": 6029
+  },
+  {
+    "locality": "Могилів-Подільський",
+    "region": "Вінницька область",
+    "population": 32853
+  },
+  {
+    "locality": "Молочанськ",
+    "region": "Запорізька область",
+    "population": 7964
+  },
+  {
+    "locality": "Монастириська",
+    "region": "Тернопільська область",
+    "population": 6344
+  },
+  {
+    "locality": "Монастирище",
+    "region": "Черкаська область",
+    "population": 9463
+  },
+  {
+    "locality": "Моршин",
+    "region": "Львівська область",
+    "population": 6482
+  },
+  {
+    "locality": "Моспине",
+    "region": "Донецька область",
+    "population": 11736
+  },
+  {
+    "locality": "Мостиська",
+    "region": "Львівська область",
+    "population": 9150
+  },
+  {
+    "locality": "Мукачево",
+    "region": "Закарпатська область",
+    "population": 82346
+  },
+  {
+    "locality": "Надвірна",
+    "region": "Івано-Франківська область",
+    "population": 20932
+  },
+  {
+    "locality": "Немирів",
+    "region": "Вінницька область",
+    "population": 12082
+  },
+  {
+    "locality": "Нетішин",
+    "region": "Хмельницька область",
+    "population": 34358
+  },
+  {
+    "locality": "Ніжин",
+    "region": "Чернігівська область",
+    "population": 76625
+  },
+  {
+    "locality": "Нікополь",
+    "region": "Дніпропетровська область",
+    "population": 136280
+  },
+  {
+    "locality": "Нова Каховка",
+    "region": "Херсонська область",
+    "population": 52137
+  },
+  {
+    "locality": "Нова Одеса",
+    "region": "Миколаївська область",
+    "population": 14070
+  },
+  {
+    "locality": "Новгород-Сіверський",
+    "region": "Чернігівська область",
+    "population": 15175
+  },
+  {
+    "locality": "Новий Буг",
+    "region": "Миколаївська область",
+    "population": 16250
+  },
+  {
+    "locality": "Новий Калинів",
+    "region": "Львівська область",
+    "population": 3582
+  },
+  {
+    "locality": "Новий Розділ",
+    "region": "Львівська область",
+    "population": 28227
+  },
+  {
+    "locality": "Новоазовськ",
+    "region": "Донецька область",
+    "population": 12702
+  },
+  {
+    "locality": "Нововолинськ",
+    "region": "Волинська область",
+    "population": 53838
+  },
+  {
+    "locality": "Новогродівка",
+    "region": "Донецька область",
+    "population": 17473
+  },
+  {
+    "locality": "Новодністровськ",
+    "region": "Чернівецька область",
+    "population": 10342
+  },
+  {
+    "locality": "Новодружеськ",
+    "region": "Луганська область",
+    "population": 9025
+  },
+  {
+    "locality": "Новомиргород",
+    "region": "Кіровоградська область",
+    "population": 13220
+  },
+  {
+    "locality": "Новоселиця",
+    "region": "Чернівецька область",
+    "population": 8400
+  },
+  {
+    "locality": "Новоукраїнка",
+    "region": "Кіровоградська область",
+    "population": 19353
+  },
+  {
+    "locality": "Новояворівськ",
+    "region": "Львівська область",
+    "population": 26483
+  },
+  {
+    "locality": "Носівка",
+    "region": "Чернігівська область",
+    "population": 15966
+  },
+  {
+    "locality": "Обухів",
+    "region": "Київська область",
+    "population": 32776
+  },
+  {
+    "locality": "Овруч",
+    "region": "Житомирська область",
+    "population": 17031
+  },
+  {
+    "locality": "Одеса",
+    "region": "Одеська область",
+    "population": 1029049
+  },
+  {
+    "locality": "Олевськ",
+    "region": "Житомирська область",
+    "population": 10897
+  },
+  {
+    "locality": "Олександрівськ",
+    "region": "Луганська область",
+    "population": 7045
+  },
+  {
+    "locality": "Олександрія",
+    "region": "Кіровоградська область",
+    "population": 93357
+  },
+  {
+    "locality": "Олешки",
+    "region": "Херсонська область",
+    "population": 24123
+  },
+  {
+    "locality": "Оріхів",
+    "region": "Запорізька область",
+    "population": 17955
+  },
+  {
+    "locality": "Остер",
+    "region": "Чернігівська область",
+    "population": 7194
+  },
+  {
+    "locality": "Острог",
+    "region": "Рівненська область",
+    "population": 14801
+  },
+  {
+    "locality": "Отаманівка",
+    "region": "Луганська область",
+    "population": 25528
+  },
+  {
+    "locality": "Охтирка",
+    "region": "Сумська область",
+    "population": 50399
+  },
+  {
+    "locality": "Очаків",
+    "region": "Миколаївська область",
+    "population": 16929
+  },
+  {
+    "locality": "Павлоград",
+    "region": "Дніпропетровська область",
+    "population": 118816
+  },
+  {
+    "locality": "Первомайськ",
+    "region": "Миколаївська область",
+    "population": 70170
+  },
+  {
+    "locality": "Перевальськ",
+    "region": "Луганська область",
+    "population": 29665
+  },
+  {
+    "locality": "Перемишляни",
+    "region": "Львівська область",
+    "population": 7565
+  },
+  {
+    "locality": "Перечин",
+    "region": "Закарпатська область",
+    "population": 7083
+  },
+  {
+    "locality": "Перещепине",
+    "region": "Дніпропетровська область",
+    "population": 10041
+  },
+  {
+    "locality": "Переяслав",
+    "region": "Київська область",
+    "population": 31634
+  },
+  {
+    "locality": "Петрово-Красносілля",
+    "region": "Луганська область",
+    "population": 15478
+  },
+  {
+    "locality": "Пирятин",
+    "region": "Полтавська область",
+    "population": 16664
+  },
+  {
+    "locality": "Південне",
+    "region": "Одеська область",
+    "population": 23977
+  },
+  {
+    "locality": "Південне",
+    "region": "Харківська область",
+    "population": 8516
+  },
+  {
+    "locality": "Південноукраїнськ",
+    "region": "Миколаївська область",
+    "population": 38206
+  },
+  {
+    "locality": "Підгайці",
+    "region": "Тернопільська область",
+    "population": 3280
+  },
+  {
+    "locality": "Підгородне",
+    "region": "Дніпропетровська область",
+    "population": 17763
+  },
+  {
+    "locality": "Погребище",
+    "region": "Вінницька область",
+    "population": 10754
+  },
+  {
+    "locality": "Подільськ",
+    "region": "Одеська область",
+    "population": 40718
+  },
+  {
+    "locality": "Покров",
+    "region": "Дніпропетровська область",
+    "population": 44834
+  },
+  {
+    "locality": "Покровськ",
+    "region": "Донецька область",
+    "population": 69154
+  },
+  {
+    "locality": "Пологи",
+    "region": "Запорізька область",
+    "population": 22206
+  },
+  {
+    "locality": "Полонне",
+    "region": "Хмельницька область",
+    "population": 23211
+  },
+  {
+    "locality": "Полтава",
+    "region": "Полтавська область",
+    "population": 317998
+  },
+  {
+    "locality": "Помічна",
+    "region": "Кіровоградська область",
+    "population": 10946
+  },
+  {
+    "locality": "Попасна",
+    "region": "Луганська область",
+    "population": 25951
+  },
+  {
+    "locality": "Почаїв",
+    "region": "Тернопільська область",
+    "population": 8240
+  },
+  {
+    "locality": "Привілля",
+    "region": "Луганська область",
+    "population": 9004
+  },
+  {
+    "locality": "Прилуки",
+    "region": "Чернігівська область",
+    "population": 64861
+  },
+  {
+    "locality": "Приморськ",
+    "region": "Запорізька область",
+    "population": 12973
+  },
+  {
+    "locality": "Прип'ять",
+    "region": "Київська область",
+    "population": 0
+  },
+  {
+    "locality": "Пустомити",
+    "region": "Львівська область",
+    "population": 9798
+  },
+  {
+    "locality": "Путивль",
+    "region": "Сумська область",
+    "population": 17354
+  },
+  {
+    "locality": "П'ятихатки",
+    "region": "Дніпропетровська область",
+    "population": 20563
+  },
+  {
+    "locality": "Рава-Руська",
+    "region": "Львівська область",
+    "population": 8070
+  },
+  {
+    "locality": "Радехів",
+    "region": "Львівська область",
+    "population": 9230
+  },
+  {
+    "locality": "Радивилів",
+    "region": "Рівненська область",
+    "population": 10311
+  },
+  {
+    "locality": "Радомишль",
+    "region": "Житомирська область",
+    "population": 15326
+  },
+  {
+    "locality": "Рахів",
+    "region": "Закарпатська область",
+    "population": 15241
+  },
+  {
+    "locality": "Рені",
+    "region": "Одеська область",
+    "population": 20481
+  },
+  {
+    "locality": "Решетилівка",
+    "region": "Полтавська область",
+    "population": 9457
+  },
+  {
+    "locality": "Ржищів",
+    "region": "Київська область",
+    "population": 8447
+  },
+  {
+    "locality": "Рівне",
+    "region": "Рівненська область",
+    "population": 248813
+  },
+  {
+    "locality": "Ровеньки",
+    "region": "Луганська область",
+    "population": 53725
+  },
+  {
+    "locality": "Рогатин",
+    "region": "Івано-Франківська область",
+    "population": 8607
+  },
+  {
+    "locality": "Родинське",
+    "region": "Донецька область",
+    "population": 11996
+  },
+  {
+    "locality": "Рожище",
+    "region": "Волинська область",
+    "population": 13636
+  },
+  {
+    "locality": "Роздільна",
+    "region": "Одеська область",
+    "population": 17754
+  },
+  {
+    "locality": "Ромни",
+    "region": "Сумська область",
+    "population": 50448
+  },
+  {
+    "locality": "Рубіжне",
+    "region": "Луганська область",
+    "population": 65322
+  },
+  {
+    "locality": "Рудки",
+    "region": "Львівська область",
+    "population": 4942
+  },
+  {
+    "locality": "Саки",
+    "region": "Автономна Республіка Крим",
+    "population": 29416
+  },
+  {
+    "locality": "Самар",
+    "region": "Дніпропетровська область",
+    "population": 72439
+  },
+  {
+    "locality": "Самбір",
+    "region": "Львівська область",
+    "population": 36556
+  },
+  {
+    "locality": "Сарни",
+    "region": "Рівненська область",
+    "population": 28144
+  },
+  {
+    "locality": "Свалява",
+    "region": "Закарпатська область",
+    "population": 17145
+  },
+  {
+    "locality": "Сватове",
+    "region": "Луганська область",
+    "population": 19495
+  },
+  {
+    "locality": "Світловодськ",
+    "region": "Кіровоградська область",
+    "population": 50094
+  },
+  {
+    "locality": "Світлодарськ",
+    "region": "Донецька область",
+    "population": 13184
+  },
+  {
+    "locality": "Святогірськ",
+    "region": "Донецька область",
+    "population": 5136
+  },
+  {
+    "locality": "Севастополь",
+    "region": "Севастополь",
+    "population": 342451
+  },
+  {
+    "locality": "Селидове",
+    "region": "Донецька область",
+    "population": 26793
+  },
+  {
+    "locality": "Семенівка",
+    "region": "Чернігівська область",
+    "population": 9656
+  },
+  {
+    "locality": "Середина-Буда",
+    "region": "Сумська область",
+    "population": 7511
+  },
+  {
+    "locality": "Синельникове",
+    "region": "Дніпропетровська область",
+    "population": 32302
+  },
+  {
+    "locality": "Сіверськ",
+    "region": "Донецька область",
+    "population": 14393
+  },
+  {
+    "locality": "Сіверськодонецьк",
+    "region": "Луганська область",
+    "population": 119940
+  },
+  {
+    "locality": "Сімферополь",
+    "region": "Автономна Республіка Крим",
+    "population": 343644
+  },
+  {
+    "locality": "Скадовськ",
+    "region": "Херсонська область",
+    "population": 19641
+  },
+  {
+    "locality": "Скалат",
+    "region": "Тернопільська область",
+    "population": 4036
+  },
+  {
+    "locality": "Сквира",
+    "region": "Київська область",
+    "population": 18126
+  },
+  {
+    "locality": "Сколе",
+    "region": "Львівська область",
+    "population": 6742
+  },
+  {
+    "locality": "Славута",
+    "region": "Хмельницька область",
+    "population": 34340
+  },
+  {
+    "locality": "Славутич",
+    "region": "Київська область",
+    "population": 24402
+  },
+  {
+    "locality": "Слов'янськ",
+    "region": "Донецька область",
+    "population": 124829
+  },
+  {
+    "locality": "Сміла",
+    "region": "Черкаська область",
+    "population": 69681
+  },
+  {
+    "locality": "Снігурівка",
+    "region": "Миколаївська область",
+    "population": 15447
+  },
+  {
+    "locality": "Сніжне",
+    "region": "Донецька область",
+    "population": 58496
+  },
+  {
+    "locality": "Сновськ",
+    "region": "Чернігівська область",
+    "population": 12315
+  },
+  {
+    "locality": "Снятин",
+    "region": "Івано-Франківська область",
+    "population": 10479
+  },
+  {
+    "locality": "Сокаль",
+    "region": "Львівська область",
+    "population": 21693
+  },
+  {
+    "locality": "Сокиряни",
+    "region": "Чернівецька область",
+    "population": 10258
+  },
+  {
+    "locality": "Сокологірськ",
+    "region": "Луганська область",
+    "population": 43082
+  },
+  {
+    "locality": "Соледар",
+    "region": "Донецька область",
+    "population": 13151
+  },
+  {
+    "locality": "Сорокине",
+    "region": "Луганська область",
+    "population": 50560
+  },
+  {
+    "locality": "Соснівка",
+    "region": "Львівська область",
+    "population": 11889
+  },
+  {
+    "locality": "Старий Крим",
+    "region": "Автономна Республіка Крим",
+    "population": 10101
+  },
+  {
+    "locality": "Старий Самбір",
+    "region": "Львівська область",
+    "population": 5706
+  },
+  {
+    "locality": "Старобільськ",
+    "region": "Луганська область",
+    "population": 22371
+  },
+  {
+    "locality": "Старокостянтинів",
+    "region": "Хмельницька область",
+    "population": 35206
+  },
+  {
+    "locality": "Стебник",
+    "region": "Львівська область",
+    "population": 20863
+  },
+  {
+    "locality": "Сторожинець",
+    "region": "Чернівецька область",
+    "population": 14693
+  },
+  {
+    "locality": "Стрий",
+    "region": "Львівська область",
+    "population": 62479
+  },
+  {
+    "locality": "Судак",
+    "region": "Автономна Республіка Крим",
+    "population": 14495
+  },
+  {
+    "locality": "Судова Вишня",
+    "region": "Львівська область",
+    "population": 6668
+  },
+  {
+    "locality": "Суми",
+    "region": "Сумська область",
+    "population": 293141
+  },
+  {
+    "locality": "Суходільськ",
+    "region": "Луганська область",
+    "population": 23642
+  },
+  {
+    "locality": "Таврійськ",
+    "region": "Херсонська область",
+    "population": 11452
+  },
+  {
+    "locality": "Тальне",
+    "region": "Черкаська область",
+    "population": 16388
+  },
+  {
+    "locality": "Тараща",
+    "region": "Київська область",
+    "population": 13452
+  },
+  {
+    "locality": "Татарбунари",
+    "region": "Одеська область",
+    "population": 10797
+  },
+  {
+    "locality": "Теплодар",
+    "region": "Одеська область",
+    "population": 8830
+  },
+  {
+    "locality": "Теребовля",
+    "region": "Тернопільська область",
+    "population": 13661
+  },
+  {
+    "locality": "Тернівка",
+    "region": "Дніпропетровська область",
+    "population": 29226
+  },
+  {
+    "locality": "Тернопіль",
+    "region": "Тернопільська область",
+    "population": 227755
+  },
+  {
+    "locality": "Тетіїв",
+    "region": "Київська область",
+    "population": 14944
+  },
+  {
+    "locality": "Тисмениця",
+    "region": "Івано-Франківська область",
+    "population": 9790
+  },
+  {
+    "locality": "Тлумач",
+    "region": "Івано-Франківська область",
+    "population": 8831
+  },
+  {
+    "locality": "Токмак",
+    "region": "Запорізька область",
+    "population": 36275
+  },
+  {
+    "locality": "Торецьк",
+    "region": "Донецька область",
+    "population": 43371
+  },
+  {
+    "locality": "Тростянець",
+    "region": "Сумська область",
+    "population": 23308
+  },
+  {
+    "locality": "Трускавець",
+    "region": "Львівська область",
+    "population": 31037
+  },
+  {
+    "locality": "Тульчин",
+    "region": "Вінницька область",
+    "population": 16136
+  },
+  {
+    "locality": "Турка",
+    "region": "Львівська область",
+    "population": 7681
+  },
+  {
+    "locality": "Тячів",
+    "region": "Закарпатська область",
+    "population": 9786
+  },
+  {
+    "locality": "Угнів",
+    "region": "Львівська область",
+    "population": 1021
+  },
+  {
+    "locality": "Ужгород",
+    "region": "Закарпатська область",
+    "population": 117317
+  },
+  {
+    "locality": "Узин",
+    "region": "Київська область",
+    "population": 13217
+  },
+  {
+    "locality": "Українка",
+    "region": "Київська область",
+    "population": 14163
+  },
+  {
+    "locality": "Українськ",
+    "region": "Донецька область",
+    "population": 13236
+  },
+  {
+    "locality": "Умань",
+    "region": "Черкаська область",
+    "population": 88735
+  },
+  {
+    "locality": "Устилуг",
+    "region": "Волинська область",
+    "population": 2283
+  },
+  {
+    "locality": "Фастів",
+    "region": "Київська область",
+    "population": 51976
+  },
+  {
+    "locality": "Феодосія",
+    "region": "Автономна Республіка Крим",
+    "population": 74669
+  },
+  {
+    "locality": "Харків",
+    "region": "Харківська область",
+    "population": 1470902
+  },
+  {
+    "locality": "Харцизьк",
+    "region": "Донецька область",
+    "population": 64175
+  },
+  {
+    "locality": "Херсон",
+    "region": "Херсонська область",
+    "population": 328360
+  },
+  {
+    "locality": "Хирів",
+    "region": "Львівська область",
+    "population": 4590
+  },
+  {
+    "locality": "Хмельницький",
+    "region": "Хмельницька область",
+    "population": 290000
+  },
+  {
+    "locality": "Хмільник",
+    "region": "Вінницька область",
+    "population": 27898
+  },
+  {
+    "locality": "Ходорів",
+    "region": "Львівська область",
+    "population": 10565
+  },
+  {
+    "locality": "Хорол",
+    "region": "Полтавська область",
+    "population": 14753
+  },
+  {
+    "locality": "Хоростків",
+    "region": "Тернопільська область",
+    "population": 7306
+  },
+  {
+    "locality": "Хотин",
+    "region": "Чернівецька область",
+    "population": 11216
+  },
+  {
+    "locality": "Хрестівка",
+    "region": "Донецька область",
+    "population": 30910
+  },
+  {
+    "locality": "Христинівка",
+    "region": "Черкаська область",
+    "population": 11650
+  },
+  {
+    "locality": "Хрустальний",
+    "region": "Луганська область",
+    "population": 94875
+  },
+  {
+    "locality": "Хуст",
+    "region": "Закарпатська область",
+    "population": 29080
+  },
+  {
+    "locality": "Хутір-Михайлівський",
+    "region": "Сумська область",
+    "population": 5726
+  },
+  {
+    "locality": "Часів Яр",
+    "region": "Донецька область",
+    "population": 16612
+  },
+  {
+    "locality": "Черкаси",
+    "region": "Черкаська область",
+    "population": 295414
+  },
+  {
+    "locality": "Чернівці",
+    "region": "Чернівецька область",
+    "population": 240621
+  },
+  {
+    "locality": "Чернігів",
+    "region": "Чернігівська область",
+    "population": 304994
+  },
+  {
+    "locality": "Чигирин",
+    "region": "Черкаська область",
+    "population": 11960
+  },
+  {
+    "locality": "Чистякове",
+    "region": "Донецька область",
+    "population": 72346
+  },
+  {
+    "locality": "Чоп",
+    "region": "Закарпатська область",
+    "population": 8919
+  },
+  {
+    "locality": "Чорнобиль",
+    "region": "Київська область",
+    "population": 1054
+  },
+  {
+    "locality": "Чорноморськ",
+    "region": "Одеська область",
+    "population": 54151
+  },
+  {
+    "locality": "Чортків",
+    "region": "Тернопільська область",
+    "population": 29057
+  },
+  {
+    "locality": "Чугуїв",
+    "region": "Харківська область",
+    "population": 36789
+  },
+  {
+    "locality": "Чуднів",
+    "region": "Житомирська область",
+    "population": 5752
+  },
+  {
+    "locality": "Шаргород",
+    "region": "Вінницька область",
+    "population": 7161
+  },
+  {
+    "locality": "Шахтарськ",
+    "region": "Донецька область",
+    "population": 59589
+  },
+  {
+    "locality": "Шахтарське",
+    "region": "Дніпропетровська область",
+    "population": 29140
+  },
+  {
+    "locality": "Шепетівка",
+    "region": "Хмельницька область",
+    "population": 48212
+  },
+  {
+    "locality": "Шептицький",
+    "region": "Львівська область",
+    "population": 70568
+  },
+  {
+    "locality": "Шостка",
+    "region": "Сумська область",
+    "population": 87130
+  },
+  {
+    "locality": "Шпола",
+    "region": "Черкаська область",
+    "population": 19427
+  },
+  {
+    "locality": "Шумськ",
+    "region": "Тернопільська область",
+    "population": 5161
+  },
+  {
+    "locality": "Щастя",
+    "region": "Луганська область",
+    "population": 13770
+  },
+  {
+    "locality": "Щолкіне",
+    "region": "Автономна Республіка Крим",
+    "population": 11699
+  },
+  {
+    "locality": "Яворів",
+    "region": "Львівська область",
+    "population": 13510
+  },
+  {
+    "locality": "Яготин",
+    "region": "Київська область",
+    "population": 23659
+  },
+  {
+    "locality": "Ялта",
+    "region": "Автономна Республіка Крим",
+    "population": 81654
+  },
+  {
+    "locality": "Ямпіль",
+    "region": "Вінницька область",
+    "population": 11787
+  },
+  {
+    "locality": "Яремче",
+    "region": "Івано-Франківська область",
+    "population": 7850
+  },
+  {
+    "locality": "Яни Капу",
+    "region": "Автономна Республіка Крим",
+    "population": 31023
+  },
+  {
+    "locality": "Ясинувата",
+    "region": "Донецька область",
+    "population": 37552
+  }
+]
